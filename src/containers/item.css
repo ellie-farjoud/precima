@@ -1,0 +1,32 @@
+.grocery-items-cotainer {
+  width: 128px;
+  height: 128px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.grocery-items {
+  line-height: 128px;
+}
+
+.grocery-item-utils {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.grocery-trash-util--icon {
+  color: #ff0500;
+}
+
+.grocery-trash-util--icon:hover {
+  cursor: pointer;
+}
+
+.grocery-edit-icon {
+  line-height: 0;
+}
+
+.purchased-item {
+  opacity: 0.4;
+}

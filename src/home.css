@@ -1,0 +1,30 @@
+.grocery-list-wrapper {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+}
+
+.grocery-list-unpurchased {
+  margin: 8px;
+  width: 70%;
+}
+
+.grocery-item-list-container {
+  margin: 48px;
+  display: flex;
+  align-content: center;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.grocery-list-purchased {
+  margin: 8px;
+  text-align: center;
+  width: 30%;
+}
+.add-icon {
+  position: fixed;
+  bottom: 12px;
+  left: 8px;
+  color: #62a70f;
+}
