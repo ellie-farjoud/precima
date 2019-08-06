@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#INFO
+# ABOUT
 Precima is a simple web based grocery list tool. It allows user to track a list of grocery items that they need to purchase or they already purchased. The following features are currently available:
+
  1- Add an item to the grocery list
  2- View List of purchased and unpurchased items
  3- View details of a specific item
